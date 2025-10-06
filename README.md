@@ -1,10 +1,10 @@
 ### 💼 Project Title
 
-FinTech API Testing With Swagger Documents.
+FinTech API Testing With Swagger Documents using Postman.
 
 ### 📝 Project Description
 
-A simple Node.js-based FinTech API for user account management including deposit, withdraw, transfer, and viewing transactions. The main theme of this project is to verify that the API responses, performance and identify the failure for the HTTP request methods GET and POST.
+A simple Node.js-based FinTech API for user account management including deposit, withdraw, transfer, and viewing transactions. The main theme of this project is to verify that the API responses, performance and identify the failure for the HTTP request methods GET and POST using Postman.
 
 ### 🚀 Features of API
 
@@ -91,7 +91,7 @@ GET /users/:id/transactions - View transaction history of a user
 ### 🔎 Observations
 
 - Status code are not expected for Create users (POST /users).
-    - Expcted Status Code: 201
+    - Expected Status Code: 201
     - Response Staus Code: 200
     - Test Result: Failed
 
