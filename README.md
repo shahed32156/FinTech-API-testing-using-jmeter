@@ -1,6 +1,6 @@
 ### 💼 Project Title
 
-FinTech API Testing With Swagger Documents using Postman.
+FinTech API Testing With Swagger Documents using Jmeter.
 
 ### 📝 Project Description
 
